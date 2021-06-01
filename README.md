@@ -1,4 +1,4 @@
-# System Development Life Cycle of Image Compression algorithm
+# System Development Life Cycle of image compression algorithm
 ## Phases
 ### Planning:
 * Defining the scope of the system
