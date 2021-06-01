@@ -35,3 +35,4 @@
 | `Implementation` | Verilog code files |
 | `Test plan and output` | Output verification |
 | `Others` | Python files used to generate look-up tables in verilog and references |
+| `Report` | Detailed description of the project |
