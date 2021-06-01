@@ -25,3 +25,13 @@
 
 ### Testing:
 * Images under various light conditions are compressed, reconstructed and verified
+
+
+# Folder structure
+| Folder | Description |
+| ------ | ----------- |
+| `Requirements` | Required understanding of the project |
+| `Architecture` | Detailed flow of implementation |
+| `Implementation` | Verilog code files |
+| `Test plan and output` | Output verification |
+| `Others` | Python files used to generate look-up tables in verilog and references |
