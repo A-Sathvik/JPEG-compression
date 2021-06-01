@@ -34,3 +34,19 @@
 > 
 > Signal can be altered by an eavesdropper
 
+## 4W's and 1'H
+
+### Who:
+The setup can remotely capture video/images and transmits the compressed version.
+
+### What:
+An FPGA programmed to perform image compression and transmit the same efficiently.
+
+### When:
+When a human intervention is not much required to watch a location. When storing a original quality image is not required.
+
+### Where:
+Can be deployed in toxic places or in UAVs.
+
+### How:
+The algorithm is based on Joint Photographic Experts Group compression, discards high frequency content of the images. 
