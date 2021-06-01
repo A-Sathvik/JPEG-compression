@@ -1,6 +1,7 @@
-## Requirements
+# Requirements
 
-* Knowing the representation of pixel
+## Technical
+* Understanding the representation of pixel
 > RGB (Red, Green, Blue)
 
 > Y,Cb,Cr (Luminance, Chrominance)
@@ -11,3 +12,25 @@
 
 * Finding a transformation to separate the high frequency content
 > Discrete Cosine Transform
+
+## SWOT analysis
+* Strengths
+> Remotely accessed
+>
+> Cost effective
+
+* Weaknesses
+> Image quality factor/compression ratio cannot be altered remotely
+> 
+> Received compressed output requires software code for image reconstruction
+
+* Opportunities
+> FPGA can be attached to aerial vehicles
+> 
+> Implementation can be extended to video streaming
+
+* Threats
+> Compressed image is not encrypted
+> 
+> Signal can be altered by an eavesdropper
+
