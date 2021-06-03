@@ -22,3 +22,8 @@
   | `Run length`  | Passing   |
   | `Huffman encoding`| Passing |
   
+The following image is compressed with quality factor 50 (this factor may not affect the file size directly)
+File size: 260 KB
+![](https://github.com/A-Sathvik/JPEG-compression/blob/ce9b5afdda0f59ab9f097e591723e76cd2e2ea40/Test%20plan%20and%20output/View.jpeg)
+Reconstructed image, file size: 82.8 KB
+![](https://github.com/A-Sathvik/JPEG-compression/blob/ce9b5afdda0f59ab9f097e591723e76cd2e2ea40/Test%20plan%20and%20output/View-min.jpeg)
