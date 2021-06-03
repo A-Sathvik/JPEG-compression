@@ -20,7 +20,7 @@
 | LR_6 | Brightness, chrominance Huffman tables | HR_4 | Future |
 
 
-## Technical
+## Technical requirements
 * Understanding the representation of pixel
 > RGB (Red, Green, Blue)
 
