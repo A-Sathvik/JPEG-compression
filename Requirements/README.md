@@ -4,7 +4,7 @@
 | ID | Description | Status |
 | -- | ----------- | ------ |
 | HR_1 | Black and white image | Implemented |
-| HR_2 | Colored image | Future |
+| HR_2 | Colour image | Future |
 | HR_3 | Quality factor (Q) | Implemented |
 | HR_4 | Brightness quality (Q_B) and Chrominance quality (Q_C) | Future |
 
