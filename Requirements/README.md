@@ -1,5 +1,25 @@
 # Requirements
 
+## High level requirements
+| ID | Description | Status |
+| -- | ----------- | ------ |
+| HR_1 | Black and white image | Implemented |
+| HR_2 | Colored image | Future |
+| HR_3 | Quality factor (Q) | Implemented |
+| HR_4 | Brightness quality (Q_B) and Chrominance quality (Q_C) | Future |
+
+
+## Low level requirements
+| ID | Description | HR ID | Status |
+| -- | ----------- | ----- | ------ |
+| LR_1 | Image with padded pixels | HR_1 | Implemented |
+| LR_2 | File containng row-wise pixel information | HR_1 | Implemented |
+| LR_3 | Quantisation matrix | HR_3 | Implemented |
+| LR_4 | Huffman table | HR_3 | Implemented |
+| LR_5 | Brightness, chrominance quantisation matrices | HR_4 | Future |
+| LR_6 | Brightness, chrominance Huffman tables | HR_4 | Future |
+
+
 ## Technical
 * Understanding the representation of pixel
 > RGB (Red, Green, Blue)
@@ -50,3 +70,5 @@ Can be deployed in toxic places or in UAVs.
 
 ### How:
 The algorithm is based on Joint Photographic Experts Group compression, discards high frequency content of the images. 
+
+
