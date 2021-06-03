@@ -23,7 +23,7 @@
   | `Huffman encoding`| Passing |
   
 The following image is compressed with quality factor 50 (this factor may not affect the file size directly)
-File size: 260 KB
-![](https://github.com/A-Sathvik/JPEG-compression/blob/ce9b5afdda0f59ab9f097e591723e76cd2e2ea40/Test%20plan%20and%20output/View.jpeg)
-Reconstructed image, file size: 82.8 KB
-![](https://github.com/A-Sathvik/JPEG-compression/blob/ce9b5afdda0f59ab9f097e591723e76cd2e2ea40/Test%20plan%20and%20output/View-min.jpeg)
+File size: 108 KB
+![](https://github.com/A-Sathvik/JPEG-compression/blob/6baf6f3900bad3028c1a21d4dd0cd23b20f80235/Test%20plan%20and%20output/Actual%20image.jpg)
+Reconstructed image, file size: 93.4 KB
+![](https://github.com/A-Sathvik/JPEG-compression/blob/6baf6f3900bad3028c1a21d4dd0cd23b20f80235/Test%20plan%20and%20output/Compressed%20image.jpg)
